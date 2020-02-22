@@ -37,7 +37,7 @@
         "source": {
           "type": "Git",
           "git": {
-            "uri": "https://github.com/liuxiaoyu-git/ose-app-promotion-configmap.git"
+            "uri": "https://github.com/liuxiaoyu-git/app-promotion-configmap.git"
           },
           "contextDir": "node-app",
           "secrets": []
