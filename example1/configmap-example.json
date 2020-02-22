@@ -6,6 +6,6 @@
     },
     "data": {
         "message": "Hello world!",
-        "ui.properties": "color=blue\n"
+        "ui.properties": "color=blue"
     }
 }
